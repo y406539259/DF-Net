@@ -20,11 +20,7 @@ Test:  test.py
 Train: main-ms.py
 Test:  test-ms.py
 
-The trained model:
-(1) Single Source:
-Drive: 
-CHASEDB1: 
+The trained model for single source and multi source:
+Link：https://pan.baidu.com/s/1eR1YYs8zpNRA3h_pS7bvcQ 
+Password：x7aa 
 
-(2) Multi Source:
-DRIVE:
-CHASEDB1:
