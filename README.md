@@ -5,8 +5,11 @@ DF-Net for blood vessel segmentation:
 The repotory also provides DRIVE, CHASEDB1 and STARE dataset including the corresponding Mask.
 
 /data :           Contains the three datasets and corresponding train/test split file
+
 /core/models.py : Contains the network structure
+
 /core/utils.py  : Contains the data processing utils
+
 
 To run the code:
 
