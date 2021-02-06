@@ -1,0 +1,8 @@
+/home/yinpengshuai/FrangiNetNew/data/CHASEDB1/label/Image_11R_1stHO.png
+/home/yinpengshuai/FrangiNetNew/data/CHASEDB1/label/Image_11L_1stHO.png
+/home/yinpengshuai/FrangiNetNew/data/CHASEDB1/label/Image_13L_1stHO.png
+/home/yinpengshuai/FrangiNetNew/data/CHASEDB1/label/Image_13R_1stHO.png
+/home/yinpengshuai/FrangiNetNew/data/CHASEDB1/label/Image_12R_1stHO.png
+/home/yinpengshuai/FrangiNetNew/data/CHASEDB1/label/Image_14R_1stHO.png
+/home/yinpengshuai/FrangiNetNew/data/CHASEDB1/label/Image_12L_1stHO.png
+/home/yinpengshuai/FrangiNetNew/data/CHASEDB1/label/Image_14L_1stHO.png
